@@ -1,0 +1,22 @@
+body {
+    font: 10px Arial, sans-serif;
+}
+
+
+
+.navbar{
+    background-color:#2E64FE;
+}
+.specs{
+    
+    background-color: rgb(143, 145, 177);
+}
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.races{
+    background-color: gray;
+    
+}
